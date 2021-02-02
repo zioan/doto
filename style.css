@@ -361,7 +361,7 @@ footer .icons {
   }
 
   .sizes img {
-    width: 60vw;
+    width: 615px;
     margin: -60px 0 -30px;
   }
 
@@ -426,5 +426,9 @@ footer .icons {
 
   .title img {
     max-width: 555px;
+  }
+
+  .sizes img {
+    width: 750px;
   }
 }
